@@ -1,0 +1,71 @@
+product_category_name,total_sales_volume,total_revenue,avg_review_score,avg_delivery_delay,cluster,cluster_label
+health_beauty,9686,1259744.74,4.14,-11.06,2,Top Sellers
+watches_gifts,5997,1205256.44,4.02,-11.01,2,Top Sellers
+bed_bath_table,11202,1045390.52,3.9,-10.74,2,Top Sellers
+sports_leisure,8667,990729.77,4.11,-11.1,2,Top Sellers
+computers_accessories,7854,914932.36,3.94,-11.5,2,Top Sellers
+furniture_decor,8364,731629.22,3.91,-11.5,2,Top Sellers
+cool_stuff,3800,635820.54,4.15,-11.56,2,Top Sellers
+housewares,6978,634082.36,4.06,-11.37,2,Top Sellers
+auto,4240,593095.16,4.07,-10.51,2,Top Sellers
+garden_tools,4360,486398.45,4.04,-11.05,2,Top Sellers
+toys,4120,484036.3,4.16,-11.17,2,Top Sellers
+baby,3068,411854.78,4.01,-10.73,2,Top Sellers
+perfumery,3430,399757.97,4.16,-11.49,2,Top Sellers
+telephony,4546,323686.52,3.95,-10.47,2,Top Sellers
+office_furniture,1698,274757.57,3.49,-10.91,2,Top Sellers
+stationery,2522,231220.32,4.2,-11.11,2,Top Sellers
+computers,203,222963.13,4.18,-10.64,0,Reliable Performers
+pet_shop,1948,214463.41,4.18,-11.59,2,Top Sellers
+musical_instruments,680,191498.88,4.15,-10.57,0,Reliable Performers
+small_appliances,681,190864.48,4.15,-12.92,0,Reliable Performers
+,1634,185357.52,3.83,-10.49,2,Top Sellers
+electronics,2767,160246.74,4.04,-10.24,2,Top Sellers
+consoles_games,1138,158000.22,4.02,-10.75,2,Top Sellers
+fashion_bags_accessories,2038,153157.23,4.15,-12.42,2,Top Sellers
+construction_tools_construction,929,144677.59,4.06,-10.7,2,Top Sellers
+luggage_accessories,1092,140429.98,4.31,-11.67,0,Reliable Performers
+home_appliances_2,239,113446.39,4.13,-11.53,0,Reliable Performers
+home_construction,604,83088.12,3.94,-10.64,0,Reliable Performers
+home_appliances,787,82459.87,4.18,-11.71,0,Reliable Performers
+agro_industry_and_commerce,212,72530.47,4.0,-10.5,0,Reliable Performers
+furniture_living_room,504,68971.46,3.9,-10.87,0,Reliable Performers
+fixed_telephony,265,59622.99,3.68,-13.74,0,Reliable Performers
+home_confort,436,58738.84,3.84,-8.95,3,Underperformers
+air_conditioning,297,55024.96,3.96,-13.21,0,Reliable Performers
+audio,364,50688.5,3.83,-9.28,3,Underperformers
+small_appliances_home_oven_and_coffee,76,47445.71,4.3,-10.66,0,Reliable Performers
+books_general_interest,553,46856.88,4.45,-11.22,0,Reliable Performers
+kitchen_dining_laundry_garden_furniture,281,46328.37,4.01,-11.47,0,Reliable Performers
+construction_tools_lights,304,41080.0,4.05,-10.32,0,Reliable Performers
+construction_tools_safety,194,40544.52,3.84,-11.44,0,Reliable Performers
+industry_commerce_and_business,269,39745.61,4.09,-11.61,0,Reliable Performers
+food,510,29393.41,4.23,-8.97,0,Reliable Performers
+market_place,311,28378.47,4.02,-13.67,0,Reliable Performers
+costruction_tools_garden,240,25769.74,4.05,-12.59,0,Reliable Performers
+art,209,24202.64,3.95,-11.85,0,Reliable Performers
+fashion_shoes,262,23562.77,4.25,-13.89,0,Reliable Performers
+drinks,379,22428.7,4.04,-10.58,0,Reliable Performers
+signaling_and_security,199,21509.23,4.08,-11.76,0,Reliable Performers
+furniture_bedroom,109,20028.78,4.1,-12.59,0,Reliable Performers
+books_technical,267,19096.06,4.36,-10.42,0,Reliable Performers
+costruction_tools_tools,103,15903.95,4.44,-11.26,0,Reliable Performers
+food_drink,278,15179.48,4.31,-10.68,0,Reliable Performers
+fashion_male_clothing,132,10797.82,3.64,-11.77,3,Underperformers
+fashion_underwear_beach,131,9541.55,3.95,-10.06,3,Underperformers
+christmas_supplies,153,8800.82,4.02,-11.17,0,Reliable Performers
+tablets_printing_image,83,7528.41,4.12,-11.84,0,Reliable Performers
+cine_photo,73,6949.36,4.21,-10.28,0,Reliable Performers
+music,38,6034.35,4.21,-13.42,1,Niche Favorites
+dvds_blu_ray,64,5999.39,4.08,-12.43,0,Reliable Performers
+books_imported,60,4639.85,4.4,-10.23,0,Reliable Performers
+party_supplies,43,4485.18,3.77,-14.17,1,Niche Favorites
+furniture_mattress_and_upholstery,38,4368.08,3.83,-6.3,3,Underperformers
+fashio_female_clothing,49,2869.54,3.78,-10.41,3,Underperformers
+fashion_sport,30,2119.51,4.23,-11.45,1,Niche Favorites
+la_cuisine,14,2054.99,4.0,-15.36,1,Niche Favorites
+diapers_and_hygiene,39,1567.59,3.26,-10.38,3,Underperformers
+flowers,33,1110.04,4.42,-11.36,1,Niche Favorites
+home_comfort_2,30,760.27,3.63,-7.6,3,Underperformers
+cds_dvds_musicals,14,730.0,4.64,-15.86,1,Niche Favorites
+fashion_childrens_clothes,8,569.85,4.5,-14.71,1,Niche Favorites
