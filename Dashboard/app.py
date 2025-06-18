@@ -1,9 +1,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
-# Load dataset
-df = pd.read_csv("product_segmentation.csv")
+
+df = pd.read_csv(os.path.join(os.path.dirname(__file__), "product_segmentation.csv"))
+
 
 # Title
 st.title("Product Segmentation Dashboard")
