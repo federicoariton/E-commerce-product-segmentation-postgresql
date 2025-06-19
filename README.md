@@ -1,4 +1,4 @@
-# 🛍️ Olist E-commerce Marketing Analytics Dashboard
+# 🛍️ Olist E-commerce Marketing Analytics 
 
 This project is a full-stack simulation of a **real-world marketing analytics solution** using open-source data from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The objective is to **recreate the end-to-end data lifecycle**—from raw e-commerce data to business insights—by building a relational database, applying analytical techniques, and delivering an interactive dashboard.
 
