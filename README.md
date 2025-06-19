@@ -13,12 +13,12 @@ To replicate a real-world analytics workflow by:
 
 ## 🚀 Quick Access
 
+- **🎥 Screencast Video**: [Click here to watch the full walkthrough](https://drive.google.com/file/d/1tuTeA38fMRpyXl00ReKf5lD8PIlCh-Cd/view?usp=sharing)
 - **Live Dashboard**: [Streamlit App](https://e-commerce-appuct-segmentation-appql-zwpmgsadjq5uqwmfszkbi8.streamlit.app/)
   
 - **Preview (Dashbaor)**:  
   ![dashboard_instructions](https://github.com/user-attachments/assets/a44f0810-eaaf-4a08-9ba5-4cf98bf0251d)
 
-- **🎥 Screencast Video**: [Click here to watch the full walkthrough](https://your-screencast-link.com)
 
 ---
 
